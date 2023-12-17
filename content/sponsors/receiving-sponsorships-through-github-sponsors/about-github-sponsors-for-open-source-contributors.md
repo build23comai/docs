@@ -1,3 +1,4 @@
+![Uploading InShot_20231125_123850368.jpg…]()
 ---
 title: About GitHub Sponsors for open source contributors
 intro: 'If you provide value to an open source project, you can become a sponsored contributor to receive payments for your work.'
